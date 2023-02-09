@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../usr/share/nginx/html"
+		},
+		{
+			"path": "../../var/log/nginx"
+		}
+	],
+	"settings": {}
+}
